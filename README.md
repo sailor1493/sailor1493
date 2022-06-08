@@ -6,6 +6,8 @@ Welcome to my github profile!
 + Currently I am working on:
     + Implementing Deep Neural Net operations with user defined data types
     + DNN Quantization
+# Work Experience
+> To be added
 # Research Experience
 + Undergraduate Research Opportunities Program (2022.03 ~ Current)
     + Under guidance of Prof. Bernhard Egger
