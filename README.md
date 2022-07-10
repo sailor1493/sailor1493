@@ -8,6 +8,8 @@ Welcome to my github profile!
 # Work Experience
 + Tmax Tibero (2022.07 ~ Current)
     + Summer Internship
+    + Parallelizing test tasks for Continuous Integration
+    + Most Used Technology: `Python asyncio`, `Docker`
 # Research Experience
 + Undergraduate Research Opportunities Program (2022.03 ~ 2022.06)
     + Under guidance of Prof. Bernhard Egger
