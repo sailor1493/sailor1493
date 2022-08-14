@@ -7,8 +7,8 @@ Welcome to my github profile!
     + Distributed Systems 
 # Work Experience
 + Tmax Tibero (2022.07 ~ Current)
-    + Summer Internship
-    + Parallelizing test tasks for Continuous Integration
+    + Summer Internship at DevOps Team
+    + Managing DB Containers and Parallelizing test tasks for Test Automation
     + Most Used Technology: `Python` Parallel Programming, `Docker`
 # Research Experience
 + Undergraduate Research Opportunities Program (2022.03 ~ 2022.06)
