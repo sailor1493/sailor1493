@@ -6,23 +6,23 @@ Welcome to my github profile!
 + Currently I am working on:
     + Distributed Systems 
 # Work Experience
-+ Tmax Tibero (2022.07 ~ Current)
++ Tmax Tibero (2022.07. ~ 2022.08.)
     + Summer Internship at DevOps Team
-    + Managing DB Containers and Parallelizing test tasks for Test Automation
-    + Most Used Technology: `Python` Parallel Programming, `Docker`
+    + Composing Network of DBMS containers and Parallelizing test tasks for Test Automation
+    + Most Used Technology: `Python` Parallel Programming, `Shell`, `Docker`, `Docker Compose`
 # Research Experience
-+ Undergraduate Research Opportunities Program (2022.03 ~ 2022.06)
++ Undergraduate Research Opportunities Program (2022.03. ~ 2022.06.)
     + Under guidance of Prof. Bernhard Egger
     + Implemented DNN operation with cuda programming apis
     + Evaluated DNN Post-training Quantization results
     + Most Used Languages: `C++`, `Python`
 # Education
-+ Seoul National University (2017.03 ~ Current)
++ Seoul National University (2017.03. ~ Current)
     + Majoring in Business Administration since 2017
     + Double majoring Computer Science and Engineering since 2021
 + Hankuk Academy of Foreign Studies (2014.03 ~ 2017.02)
     + Humanities and Social Science Course
 # Teaching Experiences
-+ Foundation of Computing, tutor (2021.09 ~ 2022.06)
++ Foundation of Computing, tutor (2021.09 ~ Current)
     + Teaching language: `Python`
     + Practice session assistant
