@@ -10,7 +10,7 @@ Welcome to my github profile!
 
 # Research Experience
 + Undergraduate Research Intern (2022.11 ~ Current)
-    + At [Thunder Research Group](https://aces.snu.ac.kr) Under guidance of Prof. Jaejin Lee
+    + At [Thunder Research Group](http://aces.snu.ac.kr) Under guidance of Prof. Jaejin Lee
 + Undergraduate Research Opportunities Program (2022.03. ~ 2022.06.)
     + At [CSAP Lab](https://csap.snu.ac.kr/) Under guidance of Prof. Bernhard Egger
     + Implemented DNN operation with cuda programming apis
