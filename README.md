@@ -5,8 +5,8 @@ Welcome to my github profile!
 + Undergraduate student at **Seoul National University**
 + Majoring in **Business Administration**, and **Computer Science & Engineering**.
 + Currently I am working on:
-    + Distributed Systems
     + Parallel Programming with Accelerators
+    + Distributed Systems
 
 # Research Experience
 + Undergraduate Research Intern (2022.11 ~ Current)
