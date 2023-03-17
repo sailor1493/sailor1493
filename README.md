@@ -11,6 +11,8 @@ Welcome to my github profile!
 # Research Experience
 + Undergraduate Research Intern (2022.11 ~ Current)
     + At [Thunder Research Group](http://aces.snu.ac.kr) Under guidance of Prof. Jaejin Lee
+    + Evaluated DNN models for image restoration tasks.
+    + Most Used Languages: `C++`, `Python`
 + Undergraduate Research Opportunities Program (2022.03. ~ 2022.06.)
     + At [CSAP Lab](https://csap.snu.ac.kr/) Under guidance of Prof. Bernhard Egger
     + Implemented DNN operation with cuda programming apis
@@ -35,4 +37,4 @@ Welcome to my github profile!
     + Teaching language: `Python`
     + Practice session assistant
 + Teaching Assistance for [CSE](https://cse.snu.ac.kr) Courses
-    + Algorithms (2022.09 ~ Current)
+    + Algorithms (2022.09 ~ 2022.12)
