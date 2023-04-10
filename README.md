@@ -5,25 +5,34 @@ Welcome to my github profile!
 + Undergraduate student at **Seoul National University**
 + Majoring in **Business Administration**, and **Computer Science & Engineering**.
 + Currently I am working on:
-    + Parallel Programming with Accelerators
+    + Parallelizing and Optimizing Large Language Models
     + Distributed Systems
 
 # Research Experience
-+ Undergraduate Research Intern (2022.11 ~ Current)
-    + At [Thunder Research Group](http://aces.snu.ac.kr) Under guidance of Prof. Jaejin Lee
-    + Evaluated DNN models for image restoration tasks.
++ Undergraduate Research Intern (2022.11. ~ Current)
+    + At [Thunder Research Group](http://aces.snu.ac.kr)
+    + Optimizing tokenizers for Large Language Models
+    + Evaluated CNN models for image restoration tasks
     + Most Used Languages: `C++`, `Python`
+    + Advisor: Prof. Jaejin Lee
 + Undergraduate Research Opportunities Program (2022.03. ~ 2022.06.)
-    + At [CSAP Lab](https://csap.snu.ac.kr/) Under guidance of Prof. Bernhard Egger
+    + At [CSAP Lab](https://csap.snu.ac.kr/)
     + Implemented DNN operation with cuda programming apis
     + Evaluated DNN Post-training Quantization results
     + Most Used Languages: `C++`, `Python`
+    + Advisor: Prof. Bernhard Egger
 
 # Work Experience
 + [TmaxTibero](https://www.tmaxtibero.com/main.do) (2022.07. ~ 2022.08.)
     + Summer Internship at DevOps Team
     + Composing Network of DBMS containers and Parallelizing test tasks for Test Automation
     + Most Used Technology: `Python` Parallel Programming, `Shell`, `Docker`, `Docker Compose`
+
+# Community Services
++ [Bacchus](https://bacchus.snucse.org) (2021.03. ~ Current)
+    + In charge of onboarding members and member relations
+    + Managed more than 60 machines in [the department](https://cse.snu.ac.kr).
+    + Most Used Technology: `ansible`
 
 # Education
 + [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ Current)
@@ -35,6 +44,6 @@ Welcome to my github profile!
 # Teaching Experiences
 + Foundation of Computing, Tutor (2021.09 ~ Current)
     + Teaching language: `Python`
-    + Practice session assistant
+    + Practice session teaching assistant
 + Teaching Assistance for [CSE](https://cse.snu.ac.kr) Courses
     + Algorithms (2022.09 ~ 2022.12)
