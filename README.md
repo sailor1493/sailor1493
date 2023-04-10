@@ -1,5 +1,3 @@
-Welcome to my github profile!
-
 # Overview
 + Chanwoo Park
 + Undergraduate student at **Seoul National University**
