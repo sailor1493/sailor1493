@@ -37,14 +37,14 @@
     + Most Used Technology: `ansible`
 
 # Education
-+ [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ Current)
++ [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ 2023.08.)
     + Majoring in [Business Administration](https://cba.snu.ac.kr/) since 2017
     + Double majoring [Computer Science and Engineering](https://cse.snu.ac.kr/) since 2021
-+ [Hankuk Academy of Foreign Studies](http://hafs.hs.kr/) (2014.03 ~ 2017.02)
++ [Hankuk Academy of Foreign Studies](http://hafs.hs.kr/) (2014.03. ~ 2017.02.)
     + Humanities and Social Science Course
 
 # Teaching Experiences
-+ Foundation of Computing, Tutor (2021.09 ~ Current)
++ Foundation of Computing, Tutor (2021.09. ~ 2023.06.)
     + Teaching language: `Python`
     + Practice session teaching assistant
 + Teaching Assistance for [CSE](https://cse.snu.ac.kr) Courses
