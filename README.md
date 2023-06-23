@@ -22,7 +22,7 @@
 
 # Publications
 
-+ 2023
+## 2023
   + Applying Influence Range to Under-Display Camera Image Restoration
     + Kyusu Ahn, Byeonghyun Ko,  Hyungyu Lee, **Chanwoo Park**, and Jaejin Lee
     + On the 23rd International Meeting on Information Display
