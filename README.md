@@ -41,6 +41,9 @@
     + Most Used Technology: `ansible`
 
 # Education
++ [Seoul National University](https://www.snu.ac.kr/) (2023.09. ~ Current)
+    + Master's course in [Computer Science and Engineering](https://cse.snu.ac.kr/)
+    + Advisor: Prof. Jaejin Lee
 + [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ 2023.08.)
     + Summa Cum Laude / Best Thesis Paper
     + B.A. in [Business Administration](https://cba.snu.ac.kr/) and [Computer Science and Engineering](https://cse.snu.ac.kr/)
