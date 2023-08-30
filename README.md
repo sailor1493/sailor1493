@@ -1,13 +1,13 @@
 # Overview
 + Chanwoo Park
-+ Undergraduate student at **Seoul National University**
-+ Majoring in **Business Administration**, and **Computer Science & Engineering**.
++ Graduate student at **Seoul National University**
++ Majoring in **Computer Science & Engineering**.
 + Currently I am working on:
     + Parallelizing and Optimizing Large Language Models
     + Distributed Systems
 
 # Research Experience
-+ Undergraduate Research Intern (2022.11. ~ Current)
++ Researcher (2022.11. ~ Current)
     + At [Thunder Research Group](http://aces.snu.ac.kr)
     + Optimizing tokenizers for Large Language Models
     + Evaluated CNN models for image restoration tasks
@@ -42,8 +42,9 @@
 
 # Education
 + [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ 2023.08.)
-    + Majoring in [Business Administration](https://cba.snu.ac.kr/) since 2017
-    + Double majoring [Computer Science and Engineering](https://cse.snu.ac.kr/) since 2021
+    + Summa Cum Laude / Best Thesis Paper
+    + Majored in [Business Administration](https://cba.snu.ac.kr/)
+    + Double majoring [Computer Science and Engineering](https://cse.snu.ac.kr/)
 + [Hankuk Academy of Foreign Studies](http://hafs.hs.kr/) (2014.03. ~ 2017.02.)
     + Humanities and Social Science Course
 
