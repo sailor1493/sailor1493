@@ -45,7 +45,7 @@
     + Master's course in [Computer Science and Engineering](https://cse.snu.ac.kr/)
     + Advisor: Prof. Jaejin Lee
 + [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ 2023.08.)
-    + Summa Cum Laude / Best Thesis Paper
+    + Best Thesis Paper / Summa Cum Laude
     + B.A. in [Business Administration](https://cba.snu.ac.kr/) and [Computer Science and Engineering](https://cse.snu.ac.kr/)
 + [Hankuk Academy of Foreign Studies](http://hafs.hs.kr/) (2014.03. ~ 2017.02.)
     + Humanities and Social Science Course
