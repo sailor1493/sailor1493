@@ -23,6 +23,9 @@
 # Publications
 
 ## 2023
+  + UDC-SIT: A Real-World Dataset for Under-Display Cameras (To Appear)
+    + Kyusu Ahn, Byeonghyun Ko,  Hyungyu Lee, **Chanwoo Park**, and Jaejin Lee
+    + On the 37th Conference on Neural Information Processing Systems, Datasets and Benchmarks
   + Applying Influence Range to Under-Display Camera Image Restoration
     + Kyusu Ahn, Byeonghyun Ko,  Hyungyu Lee, **Chanwoo Park**, and Jaejin Lee
     + On the 23rd International Meeting on Information Display
