@@ -3,8 +3,8 @@
 + Graduate student at **Seoul National University**
 + Majoring in **Computer Science & Engineering**.
 + Currently, I am working on:
-    + Parallelizing and Optimizing Large Language Models
-    + Distributed Systems
+    + Dataset for Large Language Models
+    + Post-Training for Large Language Models
 
 # Research Experience
 + Researcher (2022.11. ~ Current)
@@ -20,6 +20,20 @@
     + Advisor: Prof. Bernhard Egger
 
 # Publications
+
+## 2025
+  + Enhancing Face Recognition Accuracy for Under-Display Cameras via Image Restoragtion
+      + Kyusu Ahn, Chanwoo Park, Jaejin Lee
+      + (Distinguished Paper)On Society for Information Display's Display Week 2025
+  + UDC-VIT: A Real-World Video Dataset for Under-Display Cameras
+      + Kyusu Ahn, Jisoo Kim, Hyungyu Lee, Byeonghyeon Ko, Chanwoo Park, Jaejin Lee
+      + On arXiv: https://arxiv.org/abs/2501.18545
+  + Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration
+      + Kyusu Ahn, Jinpyo Kim, Chanwoo Park, Jisoo Kim, Jaejin Lee
+      + On arXiv: https://arxiv.org/abs/2501.18517
+
+## 2024
+  + TBA
 
 ## 2023
   + UDC-SIT: A Real-World Dataset for Under-Display Cameras
