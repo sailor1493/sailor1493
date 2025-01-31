@@ -33,7 +33,12 @@
       + On arXiv: https://arxiv.org/abs/2501.18517
 
 ## 2024
-  + TBA
+  + Analysis of Large Language Model Performance According to Korean-English Training Data Ratio in Continual Learning
+      + Jinpyo Kim, Gyeongje Cho, Chanwoo Park, Jongwon Park, Jaejin Lee
+      + On Korea Software Congress 2024
+  + Exploring the Impact of Pre-training Corpora on the Performance of Language Models
+      + Yujin Jung, Jaehwan Lee, Chanwoo Park, Donghun Choi, Jaejin Lee
+      + On Korea Computer Congress 2024
 
 ## 2023
   + UDC-SIT: A Real-World Dataset for Under-Display Cameras
