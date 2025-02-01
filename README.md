@@ -23,21 +23,21 @@
 
 ## 2025
   + Enhancing Face Recognition Accuracy for Under-Display Cameras via Image Restoragtion
-      + Kyusu Ahn, Chanwoo Park, Jaejin Lee
+      + Kyusu Ahn, **Chanwoo Park**, Jaejin Lee
       + (Distinguished Paper)On Society for Information Display's Display Week 2025
   + UDC-VIT: A Real-World Video Dataset for Under-Display Cameras
-      + Kyusu Ahn, Jisoo Kim, Hyungyu Lee, Byeonghyeon Ko, Chanwoo Park, Jaejin Lee
+      + Kyusu Ahn, Jisoo Kim, Hyungyu Lee, Byeonghyeon Ko, **Chanwoo Park**, Jaejin Lee
       + On arXiv: https://arxiv.org/abs/2501.18545
   + Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration
-      + Kyusu Ahn, Jinpyo Kim, Chanwoo Park, Jisoo Kim, Jaejin Lee
+      + Kyusu Ahn, Jinpyo Kim, **Chanwoo Park**, Jisoo Kim, Jaejin Lee
       + On arXiv: https://arxiv.org/abs/2501.18517
 
 ## 2024
   + Analysis of Large Language Model Performance According to Korean-English Training Data Ratio in Continual Learning
-      + Jinpyo Kim, Gyeongje Cho, Chanwoo Park, Jongwon Park, Jaejin Lee
+      + Jinpyo Kim, Gyeongje Cho, **Chanwoo Park**, Jongwon Park, Jaejin Lee
       + On Korea Software Congress 2024
   + Exploring the Impact of Pre-training Corpora on the Performance of Language Models
-      + Yujin Jung, Jaehwan Lee, Chanwoo Park, Donghun Choi, Jaejin Lee
+      + Yujin Jeong, Jaehwan Lee, **Chanwoo Park**, Donghun Choi, Jaejin Lee
       + On Korea Computer Congress 2024
 
 ## 2023
