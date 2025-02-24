@@ -81,3 +81,8 @@
     + Practice session teaching assistant
 + Teaching Assistance for [CSE](https://cse.snu.ac.kr) Courses
     + Algorithms (2022.09 ~ 2022.12)
+
+# Miscellaneous Experiences
++ [Server Manager at Thunder Research Group](https://thunder.snu.ac.kr/)
+   + Built/Managed Large Scale(1.2PB) Distributed File System(Lustre)
+   + Managed GPU Cluster with more than 55 GPU Nodes, 242 GPUs, and 300+ Users
