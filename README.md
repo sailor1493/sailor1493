@@ -1,3 +1,7 @@
+# Looking for a Job
+
+> I am currently looking for a job. Any research opportunities located in Korea will be in consideration. Feel free to get in touch via my email(@gmail.com)!
+
 # Overview
 + Chanwoo Park
 + Graduate student at **Seoul National University**
