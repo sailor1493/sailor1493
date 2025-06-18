@@ -85,6 +85,7 @@
     + Practice session teaching assistant
 + Teaching Assistance for [CSE](https://cse.snu.ac.kr) Courses
     + Algorithms (2022.09 ~ 2022.12)
+    + System Programming (2025.03 ~ 2025.06)
 
 # Miscellaneous Experiences
 + [Server Manager at Thunder Research Group](https://thunder.snu.ac.kr/)
