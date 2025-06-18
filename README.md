@@ -89,4 +89,4 @@
 # Miscellaneous Experiences
 + [Server Manager at Thunder Research Group](https://thunder.snu.ac.kr/)
    + Built/Managed Peta Scale(1.2PB) Distributed File System(Lustre)
-   + Managed a GPU Cluster with more than 63 GPU Nodes, 242 GPUs, and 300+ Users
+   + Managed a GPU Cluster with more than 63 GPU Nodes, 278 GPUs, and 300+ Users
