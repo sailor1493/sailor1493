@@ -31,7 +31,7 @@
       + (Distinguished Paper)On Society for Information Display's Display Week 2025
   + UDC-VIT: A Real-World Video Dataset for Under-Display Cameras
       + Kyusu Ahn, Jisoo Kim, Hyungyu Lee, Byeonghyeon Ko, **Chanwoo Park**, Jaejin Lee
-      + On arXiv: https://arxiv.org/abs/2501.18545
+      + To Appear on ICCV 2025 : On arXiv: https://arxiv.org/abs/2501.18545
   + Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration
       + Kyusu Ahn, Jinpyo Kim, **Chanwoo Park**, Jisoo Kim, Jaejin Lee
       + On arXiv: https://arxiv.org/abs/2501.18517
