@@ -70,7 +70,7 @@
 + [Seoul National University](https://www.snu.ac.kr/) (2023.09. ~ 2025.08.)
     + Master's course in [Computer Science and Engineering](https://cse.snu.ac.kr/)
     + Advisor: Prof. Jaejin Lee
-    + Thesis: 
+    + Thesis: Towards Higher Generative Question-Answering Accuracy: Punctuation Mark Pattern-based Line Filtering on Korean Web Text
 + [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ 2023.08.)
     + B.A. in [Business Administration](https://cba.snu.ac.kr/) and [Computer Science and Engineering](https://cse.snu.ac.kr/)
     + Best Thesis Paper in [College of Business Administration](https://cba.snu.ac.kr)
