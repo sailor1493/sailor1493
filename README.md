@@ -1,21 +1,23 @@
-# Looking for a Job
-
-> I am currently looking for a job. Any research opportunities located in Korea will be in consideration. Feel free to get in touch via my email(@gmail.com)!
-
 # Overview
 + Chanwoo Park
-+ Graduate student at **Seoul National University**
-+ Majoring in **Computer Science & Engineering**.
++ Research Intern at SK Telecom, A.X Team
 + Currently, I am working on:
     + Dataset for Large Language Models
     + Post-Training for Large Language Models
 
-# Research Experience
-+ Researcher (2022.11. ~ Current)
+# Work/Research Experience
++ Research Intern(2025.11. ~ Current)
+    + At [SK Telecom](https://www.sktelecom.com/)
+    + Building benchmarks, post-training datasets for Korean LLMs.
++ Researcher (2022.11. ~ 2025.10.)
     + At [Thunder Research Group](http://aces.snu.ac.kr)
     + Improving model quality with corpus engineering
     + Most Used Languages: `C++`, `Python`
     + Advisor: Prof. Jaejin Lee
++ [TmaxTibero](https://www.tmaxtibero.com/main.do) (2022.07. ~ 2022.08.)
+    + Summer Internship at DevOps Team
+    + Composing Network of DBMS containers and Parallelizing test tasks for Test Automation
+    + Most Used Technology: `Python` Parallel Programming, `Shell`, `Docker`, `Docker Compose`
 + Undergraduate Research Opportunities Program (2022.03. ~ 2022.06.)
     + At [CSAP Lab](https://csap.snu.ac.kr/)
     + Implemented DNN operation with cuda programming apis
@@ -26,6 +28,12 @@
 # Publications
 
 ## 2025
+  + Beyond Line-Level Filtering for the Pretraining Corpora of LLMs
+      + **Chanwoo Park**, Suyoung Park, Yelim Ahn, Jongmin Kim, Jongyeon Park, Jaejin Lee
+      + On arXiv: https://arxiv.org/abs/2510.24139
+  + Ko-MuSR: A Multistep Soft Reasoning Benchmark for LLMs Capable of Understanding Korean
+      + **Chanwoo Park**, Suyoung Park, JiA Kang, Jongyeon Park, Sangho Kim, Hyunji M. Park, Sumin Bae, Mingyu Kang, Jaejin Lee
+      + On arXiv: https://arxiv.org/abs/2510.24150
   + Enhancing Face Recognition Accuracy for Under-Display Cameras via Image Restoragtion
       + Kyusu Ahn, **Chanwoo Park**, Jaejin Lee
       + (Distinguished Paper)On Society for Information Display's Display Week 2025
@@ -52,13 +60,6 @@
     + Kyusu Ahn, Byeonghyun Ko,  Hyungyu Lee, **Chanwoo Park**, and Jaejin Lee
     + On the 23rd International Meeting on Information Display
 
-
-# Work Experience
-+ [TmaxTibero](https://www.tmaxtibero.com/main.do) (2022.07. ~ 2022.08.)
-    + Summer Internship at DevOps Team
-    + Composing Network of DBMS containers and Parallelizing test tasks for Test Automation
-    + Most Used Technology: `Python` Parallel Programming, `Shell`, `Docker`, `Docker Compose`
-
 # Community Services
 + [Bacchus](https://bacchus.snucse.org) (2021.03. ~ 2023.12.)
     + Was in charge of onboarding members and member relations
@@ -66,9 +67,10 @@
     + Most Used Technology: `ansible`
 
 # Education
-+ [Seoul National University](https://www.snu.ac.kr/) (2023.09. ~ Current)
++ [Seoul National University](https://www.snu.ac.kr/) (2023.09. ~ 2025.08.)
     + Master's course in [Computer Science and Engineering](https://cse.snu.ac.kr/)
     + Advisor: Prof. Jaejin Lee
+    + Thesis: 
 + [Seoul National University](https://www.snu.ac.kr/) (2017.03. ~ 2023.08.)
     + B.A. in [Business Administration](https://cba.snu.ac.kr/) and [Computer Science and Engineering](https://cse.snu.ac.kr/)
     + Best Thesis Paper in [College of Business Administration](https://cba.snu.ac.kr)
