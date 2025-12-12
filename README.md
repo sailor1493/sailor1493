@@ -1,6 +1,6 @@
 # Overview
 + Chanwoo Park
-+ Research Intern at SK Telecom, Foundation Model Office
++ Research Intern at SK Telecom, Omnimodal Foundation Model Office
 + Currently, I am working on:
     + Dataset for Large Language Models
     + Post-Training for Large Language Models
