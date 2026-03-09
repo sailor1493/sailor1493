@@ -8,7 +8,7 @@
 + Research Intern(2026.01. ~ Current)
     + At [NAVER Cloud](https://www.navercloudcorp.com/ko/)
     + Multimodal Pretraining: Optimizing VLM training workload for Hyperscale GPU systems.
-+ Research Intern(2025.11. ~ Current)
++ Research Intern(2025.11. ~ 2025.12.)
     + At [SK Telecom](https://www.sktelecom.com/)
     + Building data for pre-training, post-training LLMs.
 + Researcher (2022.11. ~ 2025.10.)
