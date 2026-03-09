@@ -1,14 +1,16 @@
 # Overview
 + Chanwoo Park
-+ Research Intern at SK Telecom, Omnimodal Foundation Model Office
++ Research Intern at NAVER Cloud, Hyperclova-Vision
 + Currently, I am working on:
-    + Dataset for Large Language Models
-    + Post-Training for Large Language Models
+    + Multimodal Pretraining
 
 # Work/Research Experience
++ Research Intern(2026.01. ~ Current)
+    + At [NAVER Cloud](https://www.navercloudcorp.com/ko/)
+    + Multimodal Pretraining: Optimizing VLM training workload for Hyperscale GPU systems.
 + Research Intern(2025.11. ~ Current)
     + At [SK Telecom](https://www.sktelecom.com/)
-    + Building benchmarks, post-training datasets for Korean LLMs.
+    + Building data for pre-training, post-training LLMs.
 + Researcher (2022.11. ~ 2025.10.)
     + At [Thunder Research Group](http://aces.snu.ac.kr)
     + Improving model quality with corpus engineering
