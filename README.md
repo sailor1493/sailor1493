@@ -1,11 +1,10 @@
 # Overview
 + Chanwoo Park
-+ Research Intern at NAVER Cloud, Hyperclova-Vision
-+ Currently, I am working on:
-    + Multimodal Pretraining
+
+> Will join Mirae Asset Global Investments from 2026. 07.
 
 # Work/Research Experience
-+ Research Intern(2026.01. ~ Current)
++ Research Intern(2026.01. ~ 2026. 07.)
     + At [NAVER Cloud](https://www.navercloudcorp.com/ko/)
     + Multimodal Pretraining: Optimizing VLM training workload for Hyperscale GPU systems.
 + Research Intern(2025.11. ~ 2025.12.)
